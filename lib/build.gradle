@@ -4,6 +4,7 @@ plugins {
     id "jacoco"
 }
 
+
 logger.lifecycle("Using version ${version} for ${group}.${name}")
 
 oss {
