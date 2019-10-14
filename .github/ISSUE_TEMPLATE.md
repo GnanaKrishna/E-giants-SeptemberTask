@@ -2,7 +2,7 @@ In order to efficiently and accurately address your issue or feature request, pl
 
 For general support or usage questions, please use the [Auth0 Community](https://community.auth0.com/) or [Auth0 Support](https://support.auth0.com/).
 
-### Description
+### Description ###
 
 Description of the bug or feature request and why it's a problem. Consider including:
 
